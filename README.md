@@ -13,7 +13,7 @@ Il permet de détecter les sous-domaines existants et a qui est associer l'ip de
 
 ### Installation des dépendances
 ```launch setup.bat 
-```
+
 
 
 <img src="https://cdn.discordapp.com/attachments/1447209262748012739/1458504785694031977/image.png?ex=695fe1ee&is=695e906e&hm=d901acd4d52ba9463f99bc269e8738cf33ddfcd16e3b325cadda6cc8eba100ee&">
