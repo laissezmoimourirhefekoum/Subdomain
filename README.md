@@ -1,6 +1,6 @@
-# Subdomain
+# 🎯 Subdomain 
 
-Subdomain fait pour check tout les subdomain possible
+*Fait pour check tout les sous-domaines d'un site*
 ---
 
 ## Installation
@@ -14,18 +14,17 @@ Subdomain fait pour check tout les subdomain possible
 ```bash
 git clone https://github.com/laissezmoimourirhefekoum/Subdomain.git
 ```
-**____________________________**
+###
 
 
 ```bash
 cd Subdomain
 ```
-**____________________________**
-
+###
 ```bash
 setup.bat 
 ```
-**____________________________**
+###
 
 
 **if doesn't work try:**
