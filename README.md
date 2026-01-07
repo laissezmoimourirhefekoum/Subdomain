@@ -10,11 +10,23 @@ Subdomain fait pour check tout les subdomain possible
 - **Python 3** ou plus
 - Accès réseau (DNS)
 
-### Installation des dépendances
+### Installation 
+```bash
+git clone https://github.com/laissezmoimourirhefekoum/Subdomain.git
+```
+**____________________________**
+
+
+```bash
+cd Subdomain
+```
+**____________________________**
 
 ```bash
 setup.bat 
 ```
+**____________________________**
+
 
 **if doesn't work try:**
 ```bash
