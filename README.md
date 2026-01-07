@@ -1,3 +1,6 @@
+[![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=white)](https://www.python.org/) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+
 # 🎯 Subdomain 
 
 *Fait pour check tout les sous-domaines d'un site*
